@@ -2,7 +2,7 @@
 สร้างเว็บเซิร์ฟเวอร์อย่างง่ายด้วย **Python Flask** โดยมี 4 เส้นทาง (Routes):
 
 ---
-<pre> ```
+<pre> 
 ⚙️ โครงสร้างไฟล์ที่จำเป็น
 flask-project-0755/
 ├── app.py              # ไฟล์หลัก
@@ -12,7 +12,7 @@ flask-project-0755/
 └── static/
      └── css
 └── README.md    
-``` </pre>
+</pre>
 ---
 
 
